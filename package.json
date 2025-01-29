@@ -1,0 +1,20 @@
+{
+  "name": "buy-me-a-coffee",
+  "version": "1.0.0",
+  "description": "buy me a coffee smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.12",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.18"
+  }
+}
